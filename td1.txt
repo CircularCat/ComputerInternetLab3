@@ -1,0 +1,4 @@
+hello1
+this is td1 file1
+exit
+bye1
